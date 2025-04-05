@@ -22,9 +22,8 @@ a single NVIDIA GeForce RTX 3090Ti GPU.
 
 1. Configuring your environment (Prerequisites):
     
-    + Creating a virtual environment in terminal: `conda create -n CODIB python=3.6`.
+    + Creating a virtual environment in terminal: `conda create -n CODIB python=3.8`.
     
-    + Installing necessary packages: `pip install -r requirements.txt`.
 
 1. Downloading necessary data:
 
