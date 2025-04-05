@@ -28,10 +28,10 @@ a single NVIDIA GeForce RTX 3090Ti GPU.
 1. Downloading necessary data:
 
     + downloading testing dataset and move it into `./data/TestDataset/`, 
-    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1SLRB5Wg1Hdy7CQ74s3mTQ3ChhjFRSFdZ/view?usp=sharing).
+    which can be found in this [download link (Baidu Drive)](https://pan.baidu.com/s/1sy5OGIlmCTVxOo5BlGspxQ?pwd=4bgv).
     
     + downloading training dataset and move it into `./data/TrainDataset/`, 
-    which can be found in this [download link (Google Drive)](https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing).
+    which can be found in this [download link (Baidu Drive)](https://pan.baidu.com/s/1oEbnmkBj3Ohzq7AVYw4vkw?pwd=34tr).
     
     + downloading pretrained weights and move it into `./checkpoints/CODIB/CODIB.pth`, 
     which can be found in this [download link (Baidu Drive)](https://pan.baidu.com/s/1tVno4D_aQnKKTRpuoMiHwQ?pwd=fzfx).
