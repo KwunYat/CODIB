@@ -40,7 +40,7 @@ a single NVIDIA GeForce RTX 3090Ti GPU.
    
 1. Training Configuration:
 
-    + Assigning your costumed path, like `--train_save` and `--train_path` in `train.py`.
+    + Assigning your costumed path, like `--train_path` in `train.py`.
 
 1. Testing Configuration:
 
