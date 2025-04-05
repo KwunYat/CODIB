@@ -1,4 +1,4 @@
-# CODIB: Learning Compact Representations with an Information Bottleneck for Camouflaged Object Detection (TMM 2025)
+# Learning Compact Representations with an Information Bottleneck for Camouflaged Object Detection (TMM 2025)
 
 ![Network](https://github.com/user-attachments/assets/e7aa2352-1ff6-43f1-824b-67cce4826316)
 
